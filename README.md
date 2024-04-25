@@ -1,2 +1,2 @@
-# customer-segmentation
- Cohort Analysis, RFM Analysis, and Clustering with K-Means
+# Exploratory Data Analysis
+ Univariate, Bivariate & Multivariate Analysis
